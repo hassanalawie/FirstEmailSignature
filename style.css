@@ -1,0 +1,72 @@
+.head {
+  margin-top: 10rem;
+  margin-left: 2rem;
+  display: grid;
+  grid-template-columns: 7fr 19fr;
+  align-content: right;
+}
+p {
+  font-family: "Courier Prime", monospace;
+  letter-spacing: 2px;
+}
+img {
+  width: 100%;
+}
+.container {
+  margin-left: 2rem;
+}
+.image {
+  margin-top: -3.5rem;
+}
+.title {
+  font-size: 4rem;
+  margin: 0;
+  letter-spacing: 12px;
+}
+.subtitle {
+  font-size: 2rem;
+  margin: 0;
+  letter-spacing: 12px;
+}
+
+.socials {
+  display: flex;
+}
+
+i {
+  margin-right: 1rem;
+}
+
+.group {
+  display: flex;
+}
+
+.email {
+  margin-right: 1rem;
+  margin-top: 1rem;
+  display: flex;
+}
+.phone {
+  margin-right: 1rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  display: flex;
+}
+.website {
+  margin-right: 1rem;
+  margin-top: 1rem;
+  display: flex;
+}
+.instagram {
+  margin-right: 1rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  display: flex;
+}
+.text {
+  margin: -1rem 2rem;
+}
+
+.message {
+  color: #a5a5a5;
+}
